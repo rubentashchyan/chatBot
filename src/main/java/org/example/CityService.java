@@ -3,7 +3,7 @@ package org.example;
 import java.io.IOException;
 
 public class CityService {
-    String cityName;
+     String cityName;
 
     public CityService(String cityName) {
         this.cityName = cityName;

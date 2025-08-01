@@ -14,7 +14,6 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-
 public class MyBot extends TelegramLongPollingBot {
 
    private final  Set <Long> awaitingCityInput =new HashSet<>();

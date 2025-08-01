@@ -13,7 +13,6 @@ public class Main {
     public static void main(String[] args) throws TelegramApiException, IOException {
     try {
 
-
         TelegramBotsApi botsApi = new TelegramBotsApi(DefaultBotSession.class);
         botsApi.registerBot(new MyBot());
         System.out.println("бот Эггмонт Роботник запушен");

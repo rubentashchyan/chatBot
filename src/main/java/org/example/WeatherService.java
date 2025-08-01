@@ -6,8 +6,6 @@ import java.net.URL;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
-
-import com.fasterxml.jackson.annotation.JsonAnyGetter;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
